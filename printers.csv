@@ -1,0 +1,4 @@
+printer_name,x_ang,y_ang,z_ang,x_rpr,y_rpr,z_rpr,x_dim,y_dim,z_dim
+Vyper,3.6,3.6,3.6,40,32,8,250,250,250
+Mini,1.8,1.8,1.8,32,32,4,180,180,180
+Ender 3V2,1.8,1.8,1.8,32,32,8,250,250,250
