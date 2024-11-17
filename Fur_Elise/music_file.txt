@@ -1,0 +1,988 @@
+# music file for Fur Elise by Ludwig van Beethoven
+
+# each note is a sixteenth note
+subdivision sixteenth
+
+# Start tempo
+tempo 68
+
+# "chorus"
+# measure 0
+E5,r,r
+Ds5,r,r
+# measure 1
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 2
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# meausre 3
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 4
+C5,A2,A2
+C5,C3,C3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 5
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 6
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 7
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C4,r,r
+B4,r,r
+# measure 8
+# [1.
+A4,A2,A2
+A4,C3,C3
+A4,A3,A3
+A4,r,r
+E5,r,r
+Ds5,r,r
+# measure 1
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 2
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# meausre 3
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 4
+C5,A2,A2
+C5,C3,C3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 5
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 6
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 7
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C4,r,r
+B4,r,r
+# measure 9
+# [2.
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+B4,r,r
+C5,r,r
+D5,r,r
+# measure 10
+E5,C3,C3
+E5,G3,G3
+E5,C4,C4
+G4,r,r
+F5,r,r
+E5,r,r
+# measure 11
+D5,G2,G2
+D5,G3,G3
+D5,B3,B3
+F4,r,r
+E5,r,r
+D5,r,r
+# measure 12
+C5,A2,A2
+C5,E3,E3
+C5,A3,A3
+E4,r,r
+D5,r,r
+C5,r,r
+# measure 13
+B4,E2,r
+B4,E3,r
+E4,E4,r
+e4,r,r
+E5,r,r
+e5,E4,r
+# measure 14
+E5,E5,r
+e5,r,r
+E6,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 15
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 16
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 17
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 18
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 19
+C5,A2,A2
+C5,E3,E3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 20
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 21
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 22
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C5,r,r
+B4,r,r
+# measure 23
+# [1.
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+B4,r,r
+C5,r,r
+D5,r,r
+# measure 10
+E5,C3,C3
+E5,G3,G3
+E5,C4,C4
+g4,r,r
+F5,r,r
+E5,r,r
+# measure 11
+D5,G2,G2
+D5,G3,G3
+D5,B3,B3
+F4,r,r
+E5,r,r
+D5,r,r
+# measure 12
+C5,A2,A2
+C5,E3,E3
+C5,A3,A3
+E4,r,r
+D5,r,r
+C5,r,r
+# measure 13
+B4,E2,r
+B4,E3,r
+E4,E4,r
+e4,r,r
+E5,r,r
+E4,E4,r
+# measure 14
+E5,E5,r
+e5,r,r
+E6,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 15
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 16
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 17
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 18
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 19
+C5,A2,A2
+C5,E3,E3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 20
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 21
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 22
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C5,r,r
+B4,r,r
+# measure 24
+# [2.
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+# Verse 1
+C5,A4,Bf3
+c5,F4,A3
+C5,G4,G3
+# measure 25
+subdivision thirtysecond
+tempo 50
+# 2 grace notes
+F4,r,r
+A4,r,r
+
+C5,F3,r
+C5,F3,r
+C5,A3,r
+C5,A3,r
+C5,C3,r
+C5,C3,r
+C5,A3,r
+C5,A3,r
+F5,C3,r
+F5,C3,r
+F5,A3,r
+E5,A3,r
+# measure 26
+e5,F3,r
+e5,F3,r
+e5,Bf3,r
+e5,Bf3,r
+D5,D4,r
+D5,D4,r
+D5,Bf3,r
+D5,Bf3,r
+Bf5,D4,r
+Bf5,D4,r
+Bf5,Bf3,r
+A5,Bf3,r
+# measure 27
+a5,F3,r
+a5,F3,r
+G5,E4,r
+G5,E4,r
+F5,Bf3,F3
+F5,Bf3,F3
+E5,E4,r
+E5,E4,r
+D5,Bf3,F3
+D5,Bf3,F3
+C5,E4,r
+C5,E4,r
+# measure 28
+Bf4,F3,r
+Bf4,F3,r
+Bf4,A3,r
+Bf4,A3,r
+A4,C3,r
+A4,C3,r
+A4,A3,r
+Bf4,A3,r
+A4,C3,r
+G4,C3,r
+A4,A3,r
+Bf4,A3,r
+# measure 29
+C5,F3,r
+C5,F3,r
+C5,A3,r
+C5,A3,r
+C5,A3,r
+C5,C3,r
+C5,A3,r
+C5,A3,r
+D5,C3,r
+D5,C3,r
+Ds5,A3,r
+Ds5,A3,r
+# measure 30
+E5,E3,r
+E5,E3,r
+E5,A3,r
+E5,A3,r
+E5,C4,r
+E5,C4,r
+e5,A3,r
+e5,A3,r
+F5,D4,D3
+F5,D4,D3
+A4,F3,r
+A4,F3,r
+# measure 31
+C5,G3,r
+C5,G3,r
+C5,E4,r
+C5,E4,r
+D5,G3,r
+C5,G3,r
+B4,E4,r
+C5,E4,r
+D5,G3,r
+D5,G3,r
+D5,F4,r
+B4,F4,r
+# measure 32
+C5,E4,C4
+G5,E4,C4
+G4,E4,C4
+G5,E4,C4
+A4,E4,r
+G5,E4,r
+B4,G4,F4
+G5,G4,F4
+C5,g4,E4
+G5,g4,E4
+D5,G4,D4
+G5,G4,D4
+# measure 33
+E5,g4,C4
+G5,g4,C4
+C6,g4,C4
+B5,g4,C4
+A5,A3,F3
+G5,A3,F3
+F5,A3,F3
+E5,A3,F3
+D5,B3,G3
+G5,B3,G3
+F5,B3,G3
+D5,B3,G3
+# measure 34
+C5,C4,r
+G5,C4,r
+G4,C4,r
+G5,C4,r
+A4,C4,r
+G5,C4,r
+B4,G4,F4
+G5,G4,F4
+C5,g4,E4
+G5,g4,E4
+D5,G4,D4
+G5,G4,D4
+# measure 35
+E5,g4,C4
+G5,g4,C4
+C6,g4,C4
+B5,g4,C4
+A5,A3,F3
+G5,A3,F3
+F5,A3,F3
+E5,A3,F3
+D5,B3,G3
+G5,B3,G3
+F5,B3,G3
+D5,B3,G3
+# measure 36
+E5,b3,Gs3
+F5,b3,Gs3
+E5,b3,Gs3
+Ds5,b3,Gs3
+E5,r,r
+B4,r,r
+E5,r,r
+Ds5,r,r
+E4,r,r
+B4,r,r
+E4,r,r
+D4,r,r
+# measure 37
+subdivision sixteenth
+tempo 68
+E5,r,r
+E5,r,r
+E5,r,r
+B4,r,r
+E5,r,r
+Ds5,r,r
+# measure 38
+E5,r,r
+E5,r,r
+E5,r,r
+B4,r,r
+E5,r,r
+Ds5,r,r
+# measure 39
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 40
+# chorus
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D4,r,r
+C4,r,r
+# measure 41
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 42
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 43
+C5,A2,A2
+C5,C3,C3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 44
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 45
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 46
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C5,r,r
+B4,r,r
+# measure 47
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+B4,r,r
+C5,r,r
+D5,r,r
+# measure 48
+E5,C3,C3
+E5,G3,G3
+E5,C4,C4
+G4,r,r
+F5,r,r
+E5,r,r
+# measure 49
+D5,G2,G2
+D5,G3,G3
+D5,B3,B3
+F4,r,r
+E5,r,r
+D5,r,r
+# measure 50
+C5,A2,A2
+C5,E3,E3
+C5,A3,A3
+E4,r,r
+D5,r,r
+C5,r,r
+# measure 51
+B4,E2,r
+B4,E3,r
+E4,E4,r
+e4,r,r
+E5,r,r
+E4,E4,r
+# measure 52
+E5,E5,r
+e5,r,r
+E6,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 53
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 54
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 55
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 56
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 57
+C5,A2,A2
+C5,E3,E3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 58
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 59
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 60
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C5,r,r
+B4,r,r
+# measure 61
+# verse 2
+A4,r,A2
+A4,r,a2
+r,r,A2
+r,r,a2
+r,r,A2
+r,r,a2
+# measure 62
+Cs5,G4,A2
+Cs5,G4,a2
+Cs5,G4,A2
+Cs5,G4,a2
+Cs5,G4,A2
+Cs5,G4,a2
+# measure 63
+D5,F4,A2
+D5,F4,a2
+D5,F4,A2
+D5,F4,a2
+E5,Cs5,A2
+F5,D5,a2
+# measure 64
+f5,Gs4,A2
+f5,Gs4,a2
+f5,Gs4,A2
+f5,Gs4,a2
+F5,gs4,A2
+F5,gs4,a2
+# measure 65
+E5,C5,A2
+E5,C5,a2
+E5,C5,A2
+E5,C5,a2
+E5,C5,A2
+E5,C5,a2
+# measure 66
+D5,F4,D2
+D5,F4,d2
+D5,A2,D2
+D5,a2,d2
+C5,E4,D2
+B4,D4,d2
+# measure 67
+Fs4,C4,Ds2
+Fs4,C4,ds2
+Fs4,A2,Ds2
+Fs4,a2,ds2
+A4,C4,Ds2
+A4,C4,ds2
+# measure 68
+a4,c4,E2
+a4,c4,e2
+C5,E4,E2
+C5,E4,e2
+B4,D4,E2
+B4,D4,e2
+# measure 69 (nice (sorry Beethoven)) 
+A4,C4,A1
+A4,C4,A1
+A4,C4,A2
+A4,C4,a2
+A4,C4,A2
+A4,C4,a2
+# measure 70
+Cs5,G4,A2
+Cs5,G4,a2
+Cs5,G4,A2
+Cs5,G4,a2
+Cs5,G4,A2
+Cs5,G4,a2
+# measure 71
+D5,F4,A2
+D5,F4,a2
+D5,F4,A2
+D5,F4,a2
+E5,Cs4,A2
+F5,D4,a2
+# measure 72
+f5,d4,A2
+f5,d4,a2
+f5,d4,A2
+f5,d4,a2
+F5,D4,A2
+F5,D4,a2
+# measure 73
+f5,d4,Bf2
+f5,d4,bf2
+f5,d4,Bf2
+f5,d4,bf2
+f5,d4,Bf2
+f5,d4,bf2
+# measure 74
+Ef5,G4,Bf2
+Ef5,G4,bf2
+Ef5,G4,Bf2
+Ef5,G4,bf2
+D5,F4,Bf2
+C5,Ef4,bf2
+# measure 75
+Bf4,D4,Bf2
+Bf4,D4,bf2
+Bf4,D4,Bf2
+Bf4,D4,bf2
+A4,d4,Bf2
+A4,d4,bf2
+# measure 76
+Gs4,D4,B2
+Gs4,D4,b2
+Gs4,D4,B2
+Gs4,D4,b2
+gs4,Fs4,B2
+gs4,Fs4,b2
+# measure 77
+A4,E4,C3
+A4,E4,C3
+A4,E4,C3
+A4,E4,C3
+r,r,r
+r,r,r
+# measure 78
+B4,D4,E3
+B4,D4,E3
+r,r,r
+r,r,r
+r,r,r
+r,r,r
+# measure 79
+A2,r,A1
+C3,r,A1
+E3,r,A1
+A3,r,r
+C4,r,r
+E4,r,r
+D4,E4,A3
+C4,E4,A3
+B3,E4,A3
+# measure 80
+A3,e4,a3
+C4,e4,a3
+E4,e4,a3
+A4,r,r
+C5,r,r
+E5,r,r
+D5,E4,A3
+C5,E4,A3
+B4,E4,A3
+# measure 81
+A4,e4,a3
+C5,e4,a3
+E5,e4,a3
+A5,r,r
+C6,r,r
+E6,r,r
+D6,E4,A3
+C6,E4,A3
+B5,E4,A3
+# measure 82
+Bf5,e4,a3
+A5,e4,a3
+Gs5,e4,a3
+G5,r,r
+Fs5,r,r
+F5,r,r
+E5,r,r
+Ds5,r,r
+D5,r,r
+# measure 83
+Cs5,r,r
+C5,r,r
+B4,r,r
+Bf4,r,r
+A4,r,r
+Gs4,r,r
+G4,r,r
+Fs4,r,r
+F4,r,r
+# measure 84
+# chorus 
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 85
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 86
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 87
+C5,A2,A2
+C5,C3,C3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 88
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 89
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 90
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+C5,r,r
+B4,r,r
+# measure 91
+A4,A2,A2
+A4,C3,C3
+r,A3,A3
+B4,r,r
+C5,r,r
+D5,r,r
+# measure 92
+E5,C3,C3
+E5,G3,G3
+E5,C4,C4
+G4,r,r
+F5,r,r
+E5,r,r
+# measure 93
+D5,G2,G2
+D5,G3,G3
+D5,B3,B3
+F4,r,r
+E5,r,r
+D5,r,r
+# measure 94
+C5,A2,A2
+C5,E3,E3
+C5,A3,A3
+E4,r,r
+D5,r,r
+C5,r,r
+# measure 95
+B4,E2,r
+B4,E3,r
+E4,E4,r
+e4,r,r
+E5,r,r
+E4,E4,r
+# measure 96
+E5,E5,r
+e5,r,r
+E6,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 97
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+E5,r,r
+Ds5,r,r
+# measure 98
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 99
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 100
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+E4,r,r
+Gs4,r,r
+B4,r,r
+# measure 101
+C5,A2,A2
+C5,E3,E3
+r,A3,A3
+E4,r,r
+E5,r,r
+Ds5,r,r
+# measure 102
+E5,r,r
+Ds5,r,r
+E5,r,r
+B4,r,r
+D5,r,r
+C5,r,r
+# measure 103
+A4,A2,A2
+A4,E3,E3
+r,A3,A3
+C4,r,r
+E4,r,r
+A4,r,r
+# measure 104
+B4,E2,E2
+B4,E3,E3
+r,Gs3,Gs3
+D4,r,r
+C5,r,r
+B4,r,r
+# measure 105
+A4,A2,A1
+A4,A2,A1
+r,r,r
+r,r,r
